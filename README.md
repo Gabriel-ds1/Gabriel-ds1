@@ -8,11 +8,14 @@ From training deepfake architectures to integrating models like Stable Diffusion
 
 ## 📝 My Latest Posts
 
+- [**MathMorph**](https://github.com/Gabriel-ds1/MathMorph)  
+  ➤ MathMorph is a symbolic reasoning and machine learning framework designed to generate, verify and explain novel mathematical formulas.
+  
+- [**ViT-Playground**](https://github.com/Gabriel-ds1/ViT-Playground)  
+  ➤ A complete ViT implementation, from scratch, with advanced visualizations and flexible training.
+  
 - [**Neural Net from Scratch**](https://github.com/Gabriel-ds1/neural-networks-from-scratch)  
   ➤ My personal implementation of the neural network code from the book Neural Networks from Scratch in Python by Harrison Kinsley and Daniel Kukieła.
-
-- [**Fashion-MNIST Classifier GUI**](https://github.com/Gabriel-ds1/mnist-numpy-net)  
-  ➤ Built a fully connected neural network using only NumPy. Includes training/evaluation pipelines, logging, custom optimizers, and activation functions — all from scratch.
 
 - [View All](https://github.com/Gabriel-ds1?tab=repositories)
 
